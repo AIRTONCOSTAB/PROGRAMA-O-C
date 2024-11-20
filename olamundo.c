@@ -4,9 +4,9 @@ int main (){
 int idade = 25;
 float altura = 1.83;
 char letra = 'A';
-char nome[20] = "Airton"
+char nome[20] = "Airton";
 
-pintf("Idade: %d\nAltura: %f\nLetra: %c\nNome: %s");
+printf("Idade: %d\nAltura: %f\nLetra: %c\nNome: %s" idade, altura, letra, nome);
 
 return 0;
 
